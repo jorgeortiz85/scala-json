@@ -17,7 +17,7 @@
 package com.twitter.json
 
 import extensions._
-import scala.collection.immutable.Map
+import scala.collection.Map
 import scala.util.parsing.combinator._
 
 
